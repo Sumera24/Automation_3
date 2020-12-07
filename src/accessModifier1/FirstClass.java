@@ -8,6 +8,9 @@ public class FirstClass {
 		System.out.println("This is First Class");
 		SecondClass obj=new SecondClass();
 		obj.addition();
+		System.out.println("First Change");
+		System.out.println("First Change");
+		
 		
 		
 		
